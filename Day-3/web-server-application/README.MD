@@ -22,7 +22,7 @@ web-server-app/
 
 ## 🏗️ Architecture
 
-![Web Server Application Architecture](./images/web-server-architecture.png)
+![Web Server Application Architecture](./images/web-server-application-image.png)
 
 ---
 

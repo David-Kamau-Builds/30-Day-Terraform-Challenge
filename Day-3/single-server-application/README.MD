@@ -21,6 +21,14 @@ This project sets up a simple single-server architecture on AWS using Terraform.
 └── README.md             # Documentation
 ```
 
+---
+
+## 🏗️ Architecture
+
+![Web Server Application Architecture](./images/single-server-application-architecture.png)
+
+---
+
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
